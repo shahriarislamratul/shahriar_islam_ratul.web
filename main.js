@@ -20,7 +20,10 @@ document.addEventListener('DOMContentLoaded', () => {
 document.getElementById("tic_tac_toe").addEventListener("click", function() {
   window.location.href = 'https://shahriarislamratul.github.io/Tic-Tac-Toe/ ';
 });
-//Auto Generate Password  
-document.getElementById("auto_password_generate").addEventListener("click", function() {
+//Auto Generate Passwo
+document.getElementById("auto_password_genaretor").addEventListener("click", function() {
   window.location.href = 'https://shahriarislamratul.github.io/ai_password_generator/ ';
 });
+//Digital Clock
+document.getElementById("d_clock").addEventListener("click", function() {
+  window.location.href = 'https://shahriarislamratul.github.io/digital-clock/';
