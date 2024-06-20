@@ -11,6 +11,10 @@ body {
     -ms-user-select: none; 
     user-select: none;
   }
+ .logo{
+   margin: 0;
+   padding: 0;
+ }
 #logo {
   height: 150px;
   width: 200px;
