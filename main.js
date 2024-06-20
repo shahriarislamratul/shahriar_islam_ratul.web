@@ -26,5 +26,5 @@ document.getElementById("auto_password_genaretor").addEventListener("click", fun
 });
 //Digital Clock
 document.getElementById("d_clock").addEventListener("click", function() {
-  window.location.href = 'https://shahriarislamratul.github.io/digital-clock/';
+  window.location.href = 'https://shahriarislamratul.github.io/digital-clock/ ';
 });
