@@ -21,7 +21,7 @@ document.getElementById("tic_tac_toe").addEventListener("click", function() {
   window.location.href = 'https://shahriarislamratul.github.io/Tic-Tac-Toe/ ';
 });
 //Auto Generate Passwo
-document.getElementById("auto_password_genaretor").addEventListener("click", function() {
+document.getElementById("auto_password_generate").addEventListener("click", function() {
   window.location.href = 'https://shahriarislamratul.github.io/ai_password_generator/ ';
 });
 //Digital Clock
